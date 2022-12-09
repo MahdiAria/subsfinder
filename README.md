@@ -1,5 +1,5 @@
 # subsfinder
-Subdomain sites finder
+* Subdomain sites finder
 # Description 
 * '/usr/bin/python3.11'
 * -*- coding: utf-8 -*-
