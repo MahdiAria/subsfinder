@@ -12,5 +12,5 @@ It can be used as a dork...
 
 
 # [ USED ]
-python3 subdomain_finder.py
+python3 subdomain_finder.py.
 Enter url: example.com
